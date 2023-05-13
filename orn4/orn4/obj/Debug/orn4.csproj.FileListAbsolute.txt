@@ -1,0 +1,8 @@
+C:\Users\FV\Desktop\Evde yapılan\orn4\orn4\bin\Debug\orn4.exe.config
+C:\Users\FV\Desktop\Evde yapılan\orn4\orn4\bin\Debug\orn4.exe
+C:\Users\FV\Desktop\Evde yapılan\orn4\orn4\bin\Debug\orn4.pdb
+C:\Users\FV\Desktop\Evde yapılan\orn4\orn4\obj\Debug\orn4.csproj.AssemblyReference.cache
+C:\Users\FV\Desktop\Evde yapılan\orn4\orn4\obj\Debug\orn4.csproj.SuggestedBindingRedirects.cache
+C:\Users\FV\Desktop\Evde yapılan\orn4\orn4\obj\Debug\orn4.csproj.CoreCompileInputs.cache
+C:\Users\FV\Desktop\Evde yapılan\orn4\orn4\obj\Debug\orn4.exe
+C:\Users\FV\Desktop\Evde yapılan\orn4\orn4\obj\Debug\orn4.pdb
